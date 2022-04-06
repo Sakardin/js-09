@@ -1,14 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9721c0e6-ae9c-48b3-9f94-277ca9e9d01b" name="Changes" comment="" />
+    <list default="true" id="9721c0e6-ae9c-48b3-9f94-277ca9e9d01b" name="Changes" comment="1">
+      <change afterPath="$PROJECT_DIR$/__MACOSX/._dist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/._package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/._package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/._src" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/._webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dist/._bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dist/._index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/dist/._styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/src/._components" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/src/._core" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/src/._index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/src/._index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/src/._services" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/src/components/._create.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/src/components/._favorite.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/src/components/._header.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/src/components/._loader.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/src/components/._navigation.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/src/components/._posts.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/src/core/._component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/src/core/._form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/src/core/._validators.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/src/services/._api.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__MACOSX/src/services/._transform.service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/create.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/create.component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/favorite.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/favorite.component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header.component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/loader.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/loader.component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/navigation.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/navigation.component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/posts.component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/posts.component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/component.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/component.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/form.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/form.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/validators.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/validators.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/api.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/api.service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/transform.service.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/transform.service.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/templates/post.template.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/templates/post.template.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="6c5ade3f-d1b2-4869-ae06-e1e5ba52f565" />
@@ -29,12 +81,15 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="273GuGkyucZyyj4zrdSV1NF5sqe" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -86,9 +141,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.build" />
-        <item itemvalue="npm.webpack" />
         <item itemvalue="npm.start" />
+        <item itemvalue="npm.webpack" />
+        <item itemvalue="npm.build" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
@@ -103,8 +158,18 @@
       <option name="presentableId" value="Default" />
       <updated>1648541577663</updated>
       <workItem from="1648541578753" duration="31629000" />
-      <workItem from="1648811666037" duration="389000" />
+      <workItem from="1648811666037" duration="6137000" />
+      <workItem from="1649061974954" duration="8075000" />
+      <workItem from="1649247712256" duration="3140000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1648812144869</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648812144869</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,10 +180,21 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
